@@ -1,0 +1,6 @@
+
+HTML  <input type="image" style="height:23px;width:101px;border-width:0px;" src="images/my_class_07.jpg" id="ctl00_ContentPlaceHolder1_rptClassBooking_ctl61_imgEnterClass" name="ctl00$ContentPlaceHolder1$rptClassBooking$ctl61$imgEnterClass">
+innerHTML   
+XPath   //*[@id="ctl00_ContentPlaceHolder1_rptClassBooking_ctl61_imgEnterClass"]
+
+HTML  <input type="image" style="height:23px;width:101px;border-width:0px;" src="images/my_class_07.jpg" id="ctl00_ContentPlaceHolder1_rptClassBooking_ctl44_imgEnterClass" name="ctl00$ContentPlaceHolder1$rptClassBooking$ctl44$imgEnterClass">
